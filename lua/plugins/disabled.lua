@@ -8,7 +8,7 @@ return {
     enabled = false,
   },
   {
-    "nvimdev/dashboard-nvim",
+    "nvim-neo-tree/neo-tree.nvim",
     enabled = false,
   },
   { "akinsho/bufferline.nvim", enabled = false },
